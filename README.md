@@ -28,9 +28,9 @@ I’m a results-driven IT professional passionate about building smart business 
 |-----------|----------------------|
 | **Low-Code Development** | Power Apps, Power Automate, SharePoint |
 | **Microsoft 365 Tools** | Excel, Teams, Outlook, OneDrive, Lists |
-| **Web Development** | HTML, CSS, JavaScript, React, Tailwind CSS |
+| **Web Development** | HTML, CSS, JavaScript, WordPress |
 | **Database & Backend** | SharePoint Lists, Power BI, SQL (basic) |
-| **Automation & AI** | Zapier, AI Builder, LLM Integrations |
+| **Automation & AI** | Zapier, AI Builder|
 | **IT & Support** | Troubleshooting, Network Setup, System Maintenance |
 
 ---
@@ -66,6 +66,8 @@ I’m a results-driven IT professional passionate about building smart business 
 📫 Let’s Connect
 
 💼https://parvinza.github.io/.github.io/
+
+
 📧 Parvinasherin@gmail.com 
 
 ---
